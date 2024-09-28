@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Placement Preparation App",
+    "imageSrc": "projects/project.png",
+    "description": "Utilized React.js for frontend, Node.js Express.js for backend, increasing development speed 40% through API integration.",
+    "skills": ["React", "Express", "Node", "TypeScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakshi4480/placement-prep-app"
+  },
+  {
+    "title": "Mern E-commerce App",
+    "imageSrc": "projects/project.png",
+    "description": "Built responsive React.js frontend, Node.js backend enhancing user experience across devices by 25%.",
+    "skills": ["React", "JavaScript", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakshi4480/shopping-App.git"
+  },
+  {
+    "title": "Backend Project",
+    "imageSrc": "projects/project.png",
+    "description": "Designed a record management system, improving data input efficiency by 40% and reducing retrieval time by 30%.",
+    "skills": ["React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sakshi4480/backend-project"
+  }
+]
